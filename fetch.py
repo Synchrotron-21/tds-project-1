@@ -6,7 +6,7 @@ HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 def get_users_in_basel():
     users = []
-    query = "location:Basel+followers:>10"
+    query = "location:Stockholm+followers:>100"
     page = 1
     per_page = 100
     total_users = 0
