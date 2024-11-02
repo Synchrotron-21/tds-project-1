@@ -11,6 +11,7 @@ This repository contains data about GitHub users in Stockholm with over 100 foll
 1. `users.csv`: Contains information about 410 GitHub users in Stockholm with over 100 followers
 2. `repositories.csv`: Contains information about 35432 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
+4. `tds_project_1_QS.ipynb`: Python script used for questions 1 to 16
 
 ## Data Collection
 
